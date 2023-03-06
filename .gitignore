@@ -1,0 +1,8 @@
+myvenv/*
+.env
+
+payhere_project/accounts/__pycache__/
+
+payhere_project/accounts/migrations/
+
+payhere_project/payhere_project/__pycache__/
