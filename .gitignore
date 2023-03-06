@@ -6,3 +6,13 @@ payhere_project/accounts/__pycache__/
 payhere_project/accounts/migrations/
 
 payhere_project/payhere_project/__pycache__/
+
+payhere_project/core/__pycache__/
+
+payhere_project/household_book/__pycache__/
+
+payhere_project/household_book/migrations/__pycache__/
+
+payhere_project/household_book/view/__pycache__/
+
+payhere_project/household_book/migrations/
