@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     'accounts',
+    'household_book',
 
     'rest_framework',
     'rest_framework.authtoken',
